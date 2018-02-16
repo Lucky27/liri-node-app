@@ -10,5 +10,6 @@ Liri node is an app that take's data from Twitter such as tweet's from your favo
 # Build with
 - javascript<br>
 - node<br>
+- Liri
 # License
 MIT license
